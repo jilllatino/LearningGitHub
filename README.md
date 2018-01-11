@@ -2,14 +2,16 @@
 
 The purpose of this document is to give some tips and general guidelines for technical writing.
 
-[Where to Start](#where-to-start)
-[What to do](#what-to-do)
-[What not to do](#what-not-to-do)
-[Other Resources](#other-resources)
-
-## Where to Start
-
-[Back to Top](#technical-writing)
+- [What to do](#what-to-do)
+  - [Know your Audience](#know-your-audience)
+  - [Reduce the Clutter](#reduce-the-clutter)
+  - [Document As Code](#document-as-code)
+  - [Use Examples](#use-examples)
+  - [Keep Screenshots Small](#keep-screenshots-small)
+- [What not to do](#what-not-to-do)
+  - [First Person/Second Person](#first-person-second-person)
+  - [Slang](#slang)
+- [Other Resources](#other-resources)
 
 ## What to do
 
@@ -49,8 +51,8 @@ The following is a list to avoid
 |second| You, yours
 
 ### Slang
-Do not use slang in documents.  Often slang will not cross international boundaries and be understood well globally.
-
+Do not use slang in documents.  
+>**Note** Often slang is not well understood globally.
 
 [Back to Top](#technical-writing)
 
@@ -59,3 +61,6 @@ Do not use slang in documents.  Often slang will not cross international boundar
 
 Below are listed other resources that can be referenced for tips on great Technical writing
 [Freelance Folder Ten Great Technical Writing Tips](http://freelancefolder.com/ten-great-technical-writing-tips/ )
+
+
+[Back to Top](#technical-writing)
