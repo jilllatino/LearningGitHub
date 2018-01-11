@@ -30,9 +30,10 @@ Technical writing should be concise and easily understood by the target audience
 Avoid referring to the first or second person.  
 The following is a list to avoid
 
-| Route Type | Strategy
+| person  | avoid these words
 |:-----|:-----
-|lambda| Lambda Function name will be variable and based on a Staging Variable (xdxcintgroute).  The region for the Lambda Function will not be variable.  All possible Lambda functions for any one API will reside in the same AWS region.  (This is an AWS limitation as the region cannot be variable)
+|first| I, we, me, mine
+|second| You, yours
 
 
 
