@@ -9,7 +9,7 @@ The purpose of this document is to give some tips and general guidelines for tec
   - [Use Examples](#use-examples)
   - [Keep Screenshots Small](#keep-screenshots-small)
 - [What not to do](#what-not-to-do)
-  - [First Person/Second Person](#first-person-second-person)
+  - [First Person or Second Person](#first-person-or-second-person)
   - [Slang](#slang)
 - [Other Resources](#other-resources)
 
@@ -41,7 +41,7 @@ This point really does require repeating often for technical writing.  Don't inc
 
 ## What not to do
 
-### First Person / Second Person
+### First Person or Second Person
 Avoid referring to the first or second person.  
 The following is a list to avoid
 
