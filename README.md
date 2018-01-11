@@ -17,7 +17,17 @@ The purpose of this document is to give some tips and general guidelines for tec
 ## What to do
 
 ### Know your Audience
-Technical writing should be concise and easily understood by the target audience.  Usage of archaic words and unusual grammatical constructs will only cause confusion.  
+Technical writing should be concise and easily understood by the target audience.  Usage of archaic words and unusual grammatical constructs will only cause confusion.
+
+### Reduce the Clutter
+Ensure that superfluous and irrelevant details are not included in the document.  This will often derail the audience and cause confusion and noise.
+
+### Document As Code
+Store documents in Git.  In doing so, you create an audit trail of changes as well as provide an easy way to share the documents.  
+
+In Git, organize the documents such that it is easy to find.    Reduce the clutter by storing images in a subfolder called `_images`.
+
+
 
 ### 
 [Back to Top](#technical-writing)
@@ -34,11 +44,5 @@ The following is a list to avoid
 |:-----|:-----
 |first| I, we, me, mine
 |second| You, yours
-
-
-
-
-
-### First Person / Second PersonAvoid referring to the first or second person.  Avoid "you", "I", etc.   
 
 [Back to Top](#technical-writing)
